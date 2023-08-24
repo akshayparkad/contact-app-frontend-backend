@@ -137,6 +137,7 @@ function Home() {
 
         <div class="mycontainer">
             <h1>Contact App</h1>
+            <h6>By Akshay Parkad</h6>
             <div class="add-contact-form">
                 <input type="text" id="name" placeholder="Name" onChange={(e) => handleNameChange(e)} />
 
